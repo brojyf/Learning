@@ -12,7 +12,7 @@ struct Padding_Spacer: View {
         VStack(spacing: 80){
             // Padding
             VStack(alignment: .leading){
-                Text("Hellow world?")
+                Text("Hello world?")
                     .font(.largeTitle)
                     .fontWeight(.semibold)
                     .padding(.bottom, 20)
